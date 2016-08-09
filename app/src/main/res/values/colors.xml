@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d7894</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2d7894</color>
+    <color name="Barra">#3496ba</color>
+    <color name="LetrasNegras">#030303</color>
+    <color name="LetrasGrises">#5f5f5f</color>
+    <color name="primario">#3f51b5</color>
+    <color name="primariooscuro">#303f9f</color>
+    <color name="Accent">#ff4081</color>
+</resources>
